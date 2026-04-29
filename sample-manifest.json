@@ -1,12 +1,12 @@
 {
-  "export_job_id": "0bdc6c83-ff37-45ce-b37d-bd0bd9976eb1",
+  "export_job_id": "a086b383-86cf-4dfb-9d1c-41a1dac033e6",
   "id_short": 364522,
-  "published_at": "2026-04-22T07:24:26Z",
+  "published_at": "2026-04-29T07:34:50Z",
   "repo_name": "top-30-active-restaurant-whales-in-jacksonville-us-sample-364522",
   "sample_asset_name": "beamstation_364522_restaurants-us-fl_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/364522/beamstation_364522_restaurants-us-fl_SAMPLE_DIST.csv",
-  "sample_records": 29,
-  "sample_sha256": "7198b958671635ac53e27cfa2c5b345604e00a7997163a26f41e0aa6a5a89f71",
-  "sample_size_bytes": 141897,
-  "total_records": 297
+  "sample_records": 16,
+  "sample_sha256": "3a853e417a31e5b1f52dc5cc0e44afd3c27838130e3ab57c10d510fa651be1a9",
+  "sample_size_bytes": 82524,
+  "total_records": 165
 }
